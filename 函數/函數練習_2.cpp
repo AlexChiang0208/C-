@@ -13,7 +13,7 @@ int abs(int num){
 
 int main(){
 	int myNumber;
-	cout << "Enter a integer: ";
+	cout << "Enter an integer: ";
 	cin >> myNumber;
 	cout << abs(myNumber) << endl;
 	return 0;

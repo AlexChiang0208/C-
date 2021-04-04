@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// void: 沒有回傳的形態 
+// void: 沒有回傳的形態
 void myFunction(){
 	cout << "This is my first function!" << endl;
 	return;
